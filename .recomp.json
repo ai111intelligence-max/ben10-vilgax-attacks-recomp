@@ -1,0 +1,12 @@
+{
+  "$schema": "https://recomp.fyi/schema/v1.json",
+  "game": "Ben 10: Alien Force - Vilgax Attacks",
+  "wikidata": "Q2333246",
+  "system": "Xbox 360",
+  "type": "recomp",
+  "original": { "region": "USA", "revision": "1.0" },
+  "status": "planned",
+  "targets": ["PC", "Steam Deck"],
+  "help": ["Static Binary Recompilation", "XEX Extraction", "DirectX 12/Vulkan Translation"],
+  "notes": "Requesting static decompilation and recompilation from Xbox 360 (.xex) to Native PC executable (x86_64) using modern AI and static analysis tools."
+}
